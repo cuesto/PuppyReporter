@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "350484113182",
+    "firebase_url": "https://puppyreporter-c0dc7.firebaseio.com",
+    "project_id": "puppyreporter-c0dc7",
+    "storage_bucket": "puppyreporter-c0dc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350484113182:android:abe8037c5bece123",
+        "android_client_info": {
+          "package_name": "infosocial.com.puppyreporter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350484113182-5pegnoali5cb0de2k864j896ado0eqtg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "infosocial.com.puppyreporter",
+            "certificate_hash": "ae10930643489ebef895e8a8766a938715c47bf7"
+          }
+        },
+        {
+          "client_id": "350484113182-sius8nbmfs59fque6tjeqve48c9r5giu.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "350484113182-sius8nbmfs59fque6tjeqve48c9r5giu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg9RAtDsHZVcwpY0-p3d6kfaC-QBaXo8o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350484113182-sius8nbmfs59fque6tjeqve48c9r5giu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
